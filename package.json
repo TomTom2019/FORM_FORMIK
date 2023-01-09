@@ -9,6 +9,7 @@
     "axios": "^1.2.2",
     "bootstrap": "^5.2.3",
     "formik": "^2.2.9",
+    "prettier": "^2.8.2",
     "react": "^18.0.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.0.0",

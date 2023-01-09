@@ -20,7 +20,7 @@ function TestUpload() {
           data.append(`photo${index}`, values.profile[index]);
         });
         axios
-          .post("you_api_for_file_upload", data, {
+          .post("image/upload", data, {
             headers: {
               "Content-Type": "multipart/form-data",
             },
